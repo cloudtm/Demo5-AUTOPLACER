@@ -1,0 +1,22 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Infinispan Common Parent
+
+
+From: 'an unknown organization'
+  - "Java Concurrency in Practice" book annotations (http://jcip.net/) net.jcip:jcip-annotations:jar:1.0
+
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.16
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Red Hat, Inc.' (http://redhat.com/)
+  - RHQ Plugin Annotations (http://rhq-project.org/rhq-pluginAnnotations/) org.rhq.helpers:rhq-pluginAnnotations:jar:3.0.4
+    License: GPL  (http://gnu.org)
+
+
+
